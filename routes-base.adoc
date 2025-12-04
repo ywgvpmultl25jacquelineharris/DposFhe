@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\routes-base.adoc
+// Generated at: 2025-10-10T05:11:45.560Z
